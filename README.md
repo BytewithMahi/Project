@@ -6,7 +6,7 @@ This project performs basic arithmetic operations and is part of my web developm
 ---
 
 ## 🌐 Live Demo
-👉 https://bytewithmahi.github.io/calculator/
+👉https://bytewithmahi.github.io/Project/
 
 ---
 
